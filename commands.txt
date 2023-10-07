@@ -1,5 +1,0 @@
-Commands to run:
-npm i -g vercel
-vercel
-
-env = chat-bot-1-vercel
